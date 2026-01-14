@@ -4,7 +4,7 @@ A simple, efficient issue tracking application built for the Frontend Developer 
 
 ## 🔗 Live Demo
 
-[![Vercel](https://vercel.com/button)](https://smart-issue-board.vercel.app)
+[![Vercel](https://vercel.com/button)](https://smart-issue-board-six-orcin.vercel.app/)
 
 
 
