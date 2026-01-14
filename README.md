@@ -2,8 +2,11 @@
 
 A simple, efficient issue tracking application built for the Frontend Developer Internship Assignment.
 
-## 🚀 Deployment
-[Link to Vercel Deployment]: https://smart-issue-board-six-orcin.vercel.app/
+## 🔗 Live Demo
+
+[![Vercel](https://vercel.com/button)](https://smart-issue-board.vercel.app)
+
+
 
 ## 🛠 Tech Stack Choice
 I chose **React + Vite + Firebase** for this project.
